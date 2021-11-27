@@ -25,5 +25,4 @@
 
   Implementar as classes em Java e simular a criação de alguns objetos. 
   
-  ## Nota obtida 9.0
-  ### Atividade 28/10/2021
+  
